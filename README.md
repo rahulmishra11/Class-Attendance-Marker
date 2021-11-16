@@ -3,7 +3,7 @@ To use the project:
 
 First start the server application by starting the python file of ClassAttendancePython
 
-Then the app can be directly used from the android application.
+Then the app can be directly be used from the android application.
 
 
 First time the student has to register his/her face using his phone number.
