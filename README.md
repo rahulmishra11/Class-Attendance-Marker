@@ -1,4 +1,4 @@
-The project can be used to provide a digital way of student registration and later to take attendance of student.
+This project can be used to provide a digital way of student registration and later to take attendance of student.
 To use the project:
 
 First start the server application by starting the python file of ClassAttendancePython
